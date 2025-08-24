@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-3 {
+  display: flex;
+}
+
+.card {
+  flex: 1;              
+  min-width: 250px;     
+  max-width: 350px;    
+}
