@@ -33,7 +33,7 @@ This project is designed as practice for React state management (`useState`), ro
 ---
 
 ## 📷 Preview  
-![Preview Screenshot](Screenshot-HomePage.png)  
+![Preview Screenshot] Screenshot-HomePage :(Screenshot-HomePage.png)  
 ---
 
 ![Preview Screenshot](Screenshot-ProductsPage.png)  
