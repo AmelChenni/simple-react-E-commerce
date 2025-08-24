@@ -1,6 +1,6 @@
 # 🛒 Simple React E-commerce  
 
-🌐 **Live Demo:** [View Project](https://amelchenni.github.io/)  
+🌐 **Live Demo:** [View Project](https://amelchenni.github.io/simple-react-E-commerce/)  
 
 ---
 
