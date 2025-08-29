@@ -5,10 +5,10 @@
 ---
 
 ## 📖 Description  
-The **Simple React E-commerce** is a beginner-friendly online shopping app built with React.  
-It allows users to browse products by category, view details of each product, and navigate between pages.  
-This project is designed as practice for React state management (`useState`), routing (`react-router-dom`), and building dynamic components.
 
+The Simple React E-commerce is a beginner-friendly online shopping app built with React.
+It allows users to browse products by category, view details of each product, and navigate between pages.
+This project is designed as practice for React state management (useState), React Router, and building dynamic components.
 ---
 
 ## 🚀 Features  
@@ -50,7 +50,6 @@ This project is designed as practice for React state management (`useState`), ro
 - Persist cart data in **localStorage** or backend database.  
 - Add **payment integration**.  
 - Improve UI with **animations and themes**.  
-
 ---
 
 ## ▶️ Usage  
