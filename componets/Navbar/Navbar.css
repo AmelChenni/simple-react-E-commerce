@@ -1,0 +1,12 @@
+#navbar{
+      background-color: #222;
+      color: white;
+      max-height: 100px;
+
+}
+.navbar-brand{
+    color: #ff5722;
+    font-weight:bolder;
+    font-size: xx-large
+ ;
+}

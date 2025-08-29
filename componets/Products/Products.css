@@ -1,0 +1,55 @@
+.spBtn{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+/* Container spacing */
+.container {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+/* Buttons for categories */
+.btn-info {
+  background-color: #17a2b8;
+  border: none;
+  margin: 5px;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.btn-info:hover {
+  background-color: #138496;
+  transform: scale(1.05);
+  color: #fff;
+}
+
+/* Special 'All Products' button */
+.spBtn {
+  background-color: #ff5722;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 10px;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.spBtn:hover {
+  background-color: #e64a19;
+  transform: scale(1.05);
+}
+
+/* Product card layout */
+.col-3 {
+  display: flex;
+  justify-content: center;
+}
+
+/* Optional: add hover effect for product cards */
+.product-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
